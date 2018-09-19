@@ -5,7 +5,7 @@ After letting the candidate look at the algorithm for a short while then ask…
 -	What does it do
 -	Complete the output
 -	Code Review - if a colleague wanted to commit this code what issues/feedback would you pass to them:
-  ~	Comments
+  -	Comments
   o	Class/Variable name
   o	Duplicated code; why is this bad
   o	Move sort into function

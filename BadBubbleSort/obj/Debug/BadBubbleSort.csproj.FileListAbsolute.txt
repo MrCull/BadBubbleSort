@@ -1,0 +1,14 @@
+C:\Users\culll\source\repos\BadBubbleSort\BadBubbleSort\bin\Debug\BadBubbleSort.exe.config
+C:\Users\culll\source\repos\BadBubbleSort\BadBubbleSort\bin\Debug\BadBubbleSort.exe
+C:\Users\culll\source\repos\BadBubbleSort\BadBubbleSort\bin\Debug\BadBubbleSort.pdb
+C:\Users\culll\source\repos\BadBubbleSort\BadBubbleSort\obj\Debug\BadBubbleSort.csprojAssemblyReference.cache
+C:\Users\culll\source\repos\BadBubbleSort\BadBubbleSort\obj\Debug\BadBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\culll\source\repos\BadBubbleSort\BadBubbleSort\obj\Debug\BadBubbleSort.exe
+C:\Users\culll\source\repos\BadBubbleSort\BadBubbleSort\obj\Debug\BadBubbleSort.pdb
+C:\Users\culll\OneDrive\Documents\GitHub\BadBubbleSort\BadBubbleSort\bin\Debug\BadBubbleSort.exe.config
+C:\Users\culll\OneDrive\Documents\GitHub\BadBubbleSort\BadBubbleSort\bin\Debug\BadBubbleSort.exe
+C:\Users\culll\OneDrive\Documents\GitHub\BadBubbleSort\BadBubbleSort\bin\Debug\BadBubbleSort.pdb
+C:\Users\culll\OneDrive\Documents\GitHub\BadBubbleSort\BadBubbleSort\obj\Debug\BadBubbleSort.csprojAssemblyReference.cache
+C:\Users\culll\OneDrive\Documents\GitHub\BadBubbleSort\BadBubbleSort\obj\Debug\BadBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\culll\OneDrive\Documents\GitHub\BadBubbleSort\BadBubbleSort\obj\Debug\BadBubbleSort.exe
+C:\Users\culll\OneDrive\Documents\GitHub\BadBubbleSort\BadBubbleSort\obj\Debug\BadBubbleSort.pdb

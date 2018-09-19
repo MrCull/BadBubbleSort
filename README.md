@@ -1,7 +1,8 @@
 # BadBubbleSort
 A poorly written Bubble Sort to be used during candidate interviews
 
-After letting the candidate look at the algorithm for a short while then ask…
+After letting the candidate look at the algorithm for a short while then ask:
+
 What does it do
 
 Complete the output
@@ -19,7 +20,7 @@ Code Review - if a colleague wanted to commit this code what issues/feedback wou
   
 Do you know the name of the algorithm - Bubble sort
   -	Can you name any other sorting algorithms.
-    ~ Which ones are more efficient?
+  - Which ones are more efficient?
   -	Average Time Complexity in “big O” notation. Θ(n^2)
   -	Average Space Complexity in “big O” notation. Θ(n)
 
